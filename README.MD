@@ -1,4 +1,4 @@
-# Torrent Infohash Vanity Generator
+# Vanity Torrent Infohash Generator
 Stolen from: https://gkbrk.com/2018/04/generating-vanity-infohashes-for-torrents/<br>
 All credits goes to @gkbrk<br>
 <br>
